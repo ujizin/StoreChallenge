@@ -11,10 +11,6 @@ interface ProductDao {
 
     @Query("SELECT * FROM PRODUCTS WHERE id = :id LIMIT 1")
     suspend fun findById(id: Int): ProductEntity
-
-    @Query("SELECT COUNT(id) FROM PRODUCTS")
-    suspend fun getCount(): Int
-
     @Upsert
     suspend fun upsertAll(products: List<ProductEntity>)
 
