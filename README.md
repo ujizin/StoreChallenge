@@ -5,7 +5,7 @@ Modularization was not implemented due to time constraints, but the packages wer
 corresponding modules.
 
 <p align="center">
-  <img src="https://github.com/ujizin/store-challenge/assets/51065868/3085803c-831d-47d9-a36f-65e3fa4865b6" width="300"/>  
+  <img src="https://github.com/ujizin/store-challenge/assets/51065868/598b9d49-558e-453f-9e02-f87c96f2f8eb" width="300"/>  
 </p>
 
 ## 🏗 Stack
