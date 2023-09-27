@@ -4,6 +4,11 @@ The project utilized Clean Architecture, MVVM pattern, and modern Android Jetpac
 Modularization was not implemented due to time constraints, but the packages were structured as
 corresponding modules.
 
+<p align="center">
+  <img src="https://github.com/ujizin/store-challenge/assets/51065868/3085803c-831d-47d9-a36f-65e3fa4865b6" width="300"/>  
+</p>
+
+
 ## 🏗 Stack
 
 - Jetpack Compose
