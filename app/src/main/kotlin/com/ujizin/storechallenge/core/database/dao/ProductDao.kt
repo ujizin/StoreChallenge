@@ -6,7 +6,7 @@ import androidx.room.Query
 import androidx.room.Upsert
 import com.ujizin.storechallenge.core.database.entity.ProductEntity
 
-@Dao // TODO create Product dao
+@Dao
 interface ProductDao {
 
     @Query("SELECT * FROM PRODUCTS WHERE id = :id LIMIT 1")
