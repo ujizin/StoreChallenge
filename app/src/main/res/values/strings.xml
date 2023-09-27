@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Store Challenge</string>
+    <string name="error_sync_products_description">error in sync products, please try again</string>
+    <string name="error_load_products_description">error in load products, please try again</string>
+    <string name="try_again">try again</string>
+    <string name="back">back</string>
+    <string name="stock_label">%d in stock</string>
+    <string name="store_title">store</string>
+</resources>
